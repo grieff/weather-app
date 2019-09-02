@@ -1,6 +1,6 @@
 # JS Weather App
 
-A Vanilla JavaScript Weatther web application built using Dark Sky API.
+A Vanilla JavaScript Weatther web application built using Dark Sky API. It gives the current temperature (in F and C), a weather glymp and a little summary of the current weather at your location. If not given permission to use your location, it will not display any data. 
 
 # What I Learned
  
