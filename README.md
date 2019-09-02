@@ -5,6 +5,7 @@ A Vanilla JavaScript Weatther web application built using Dark Sky API.
 # What I Learned
  
 * Learn how to fetch data from an API
+* Learn how to get the location from the user and provide it to the API
 * Implemented a proxy so the api works anywhere, even on a local server
 * Implemented an addEventListener to change the temperature from Celsius to Farenhait when clicked on the temperature
 
