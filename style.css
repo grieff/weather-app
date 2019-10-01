@@ -1,3 +1,9 @@
+/* IMPORT FONTS */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
+
+/* STYLE START */
+
 * {
     margin: 0;
     padding: 0;
@@ -11,7 +17,7 @@ body {
     flex-direction: column;
     align-items: center;
     background: linear-gradient(rgb(47, 150, 163), rgb(48, 62, 143));
-    font-family: sans-serif;
+    font-family: 'Libre Baskerville', serif;
     color: white;
 }
 
@@ -36,9 +42,13 @@ body {
 
 .degree-section span {
     margin: 10px;
-    font-size: 30px;
+    font-size: 48px;
 }
 
 .degree-section h2 {
     font-size: 40px;
+}
+
+.temperature-description {
+    font-size: 1.5em;
 }
